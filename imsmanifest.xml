@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="e93ff52c-6c26-43bb-8a6b-4dfaa592feed" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+    <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <lom:lom>
+            <lom:general>
+                <lom:title>
+                    <lom:langstring>Создание электронного учебника</lom:langstring>
+                </lom:title>
+            </lom:general>
+        </lom:lom>
+    </metadata>
+    <organizations default="6c2dae89-4bef-11ee-9e36-3a6b3dc6d985_org">
+        <organization identifier="6c2dae89-4bef-11ee-9e36-3a6b3dc6d985_org">
+            <title>Создание электронного учебника</title>
+            <item identifier="6c2dae89-4bef-11ee-9e36-3a6b3dc6d985" identifierref="resource">
+                <title>Создание электронного учебника</title>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+            <file href="res/fonts/exo2/exo2-bold-italic.woff"></file>
+            <file href="res/fonts/exo2/exo2-bold.woff"></file>
+            <file href="res/fonts/exo2/exo2-italic.woff"></file>
+            <file href="res/fonts/exo2/exo2-regular.woff"></file>
+            <file href="res/fonts/fonts.css"></file>
+            <file href="res/fonts/ibm-plex-sans/ibm-plex-sans-bold-italic.woff"></file>
+            <file href="res/fonts/ibm-plex-sans/ibm-plex-sans-bold.woff"></file>
+            <file href="res/fonts/ibm-plex-sans/ibm-plex-sans-italic.woff"></file>
+            <file href="res/fonts/ibm-plex-sans/ibm-plex-sans-regular.woff"></file>
+            <file href="res/fonts/inter/inter-bold-italic.woff"></file>
+            <file href="res/fonts/inter/inter-bold.woff"></file>
+            <file href="res/fonts/inter/inter-italic.woff"></file>
+            <file href="res/fonts/inter/inter-regular.woff"></file>
+            <file href="res/fonts/inter/inter-semi-bold.woff"></file>
+            <file href="res/fonts/lato/lato-bold-italic.woff"></file>
+            <file href="res/fonts/lato/lato-bold.woff"></file>
+            <file href="res/fonts/lato/lato-italic.woff"></file>
+            <file href="res/fonts/lato/lato-medium.woff"></file>
+            <file href="res/fonts/lato/lato-regular.woff"></file>
+            <file href="res/fonts/lato/lato-semibold.woff"></file>
+            <file href="res/fonts/merriweather/merriweather-bold-italic.woff"></file>
+            <file href="res/fonts/merriweather/merriweather-bold.woff"></file>
+            <file href="res/fonts/merriweather/merriweather-italic.woff"></file>
+            <file href="res/fonts/merriweather/merriweather-regular.woff"></file>
+            <file href="res/fonts/montserrat/montserrat-bold-italic.woff"></file>
+            <file href="res/fonts/montserrat/montserrat-bold.woff"></file>
+            <file href="res/fonts/montserrat/montserrat-italic.woff"></file>
+            <file href="res/fonts/montserrat/montserrat-regular.woff"></file>
+            <file href="res/fonts/nunito-sans/nunito-sans-bold-italic.woff"></file>
+            <file href="res/fonts/nunito-sans/nunito-sans-bold.woff"></file>
+            <file href="res/fonts/nunito-sans/nunito-sans-italic.woff"></file>
+            <file href="res/fonts/nunito-sans/nunito-sans-regular.woff"></file>
+            <file href="res/fonts/opensans/open-sans-bold-italic.woff"></file>
+            <file href="res/fonts/opensans/open-sans-bold.woff"></file>
+            <file href="res/fonts/opensans/open-sans-italic.woff"></file>
+            <file href="res/fonts/opensans/open-sans-regular.woff"></file>
+            <file href="res/fonts/ptserif/pt-serif-bold-italic.woff"></file>
+            <file href="res/fonts/ptserif/pt-serif-bold.woff"></file>
+            <file href="res/fonts/ptserif/pt-serif-italic.woff"></file>
+            <file href="res/fonts/ptserif/pt-serif-regular.woff"></file>
+            <file href="res/fonts/roboto/roboto-bold-italic.woff"></file>
+            <file href="res/fonts/roboto/roboto-bold.woff"></file>
+            <file href="res/fonts/roboto/roboto-italic.woff"></file>
+            <file href="res/fonts/roboto/roboto-regular.woff"></file>
+            <file href="res/fonts/roboto/roboto-v20-latin_cyrillic-500.woff"></file>
+            <file href="res/fonts/roboto/roboto-v20-latin_cyrillic-500.woff2"></file>
+            <file href="res/fonts/robotoslab/roboto-slab-bold.woff"></file>
+            <file href="res/fonts/robotoslab/roboto-slab-regular.woff"></file>
+            <file href="res/js/core-polyfill.min.js"></file>
+            <file href="res/js/css-vars-ponyfill.min.js"></file>
+            <file href="res/js/fast-average-color.min.js"></file>
+            <file href="res/js/focus-visible.min.js"></file>
+            <file href="res/js/hyper.min.js"></file>
+            <file href="res/js/immer.umd.js"></file>
+            <file href="res/js/output.min.js"></file>
+            <file href="res/js/polyfills.min.js"></file>
+            <file href="res/js/protobuf.min.js"></file>
+            <file href="res/js/reatom.umd.js"></file>
+            <file href="res/js/resizeobserver.js"></file>
+            <file href="res/js/url-polyfill.min.js"></file>
+            <file href="res/unsupportedBrowser/fonts/common-fonts.css"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto/roboto-v29-latin-ext_latin_cyrillic-500.woff"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto/roboto-v29-latin-ext_latin_cyrillic-500.woff2"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto/roboto-v29-latin-ext_latin_cyrillic-700.woff"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto/roboto-v29-latin-ext_latin_cyrillic-700.woff2"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto/roboto-v29-latin-ext_latin_cyrillic-regular.woff"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto/roboto-v29-latin-ext_latin_cyrillic-regular.woff2"></file>
+            <file href="res/unsupportedBrowser/unsupported-browser.html"></file>
+            <file href="res/unsupportedBrowser/unsupported-browser.js"></file>
+            <file href="res/unsupportedBrowser/unsupportedBrowserImages/Chrome.png"></file>
+            <file href="res/unsupportedBrowser/unsupportedBrowserImages/Edge.png"></file>
+            <file href="res/unsupportedBrowser/unsupportedBrowserImages/Firefox.png"></file>
+            <file href="res/unsupportedBrowser/unsupportedBrowserImages/Safari.png"></file>
+            <file href="res/index.html"></file>
+            <file href="res/connectors/scorm.min.js"></file>
+            <file href="res/lng/ru-RU/messages.json"></file>
+            <file href="res/styles/bundle.css"></file>
+            <file href="res/data-1.json"></file>
+            <file href="res/data/islru-10179429/365fbd65-579f-11ee-a231-ae27a3165eff.jpg"></file>
+            <file href="res/data/islru-10179429/5f06a156-57a1-11ee-a231-ae27a3165eff.jpg"></file>
+            <file href="res/data/islru-10179429/3eaac21b-57a2-11ee-b997-6a53147ca30d.jpg"></file>
+            <file href="res/data/islru-10179429/59c1978f-57a2-11ee-b997-6a53147ca30d.jpg"></file>
+            <file href="res/data/islru-10179429/75f508c6-57a2-11ee-a231-ae27a3165eff.jpg"></file>
+            <file href="res/data/islru-10179429/ea11bf81-57a2-11ee-a231-ae27a3165eff.jpg"></file>
+            <file href="res/data/islru-10179429/1b5aadc2-57a2-11ee-a231-ae27a3165eff.jpg"></file>
+            <file href="res/data/islru-10179429/94dd5e6f-57a3-11ee-b997-6a53147ca30d.jpg"></file>
+            <file href="res/data/islru-10179429/a38b905a-57a3-11ee-a231-ae27a3165eff.jpg"></file>
+            <file href="res/data/islru-10179429/b8f1958c-57a3-11ee-b997-6a53147ca30d.jpg"></file>
+            <file href="res/data/islru-10179429/cd2ff7c1-57a3-11ee-b997-6a53147ca30d.jpg"></file>
+            <file href="res/data/islru-10179429/e426fe1a-57a3-11ee-b997-6a53147ca30d.jpg"></file>
+            <file href="res/data/islru-10179429/f35702ae-57a3-11ee-a231-ae27a3165eff.jpg"></file>
+            <file href="res/data/islru-10179429/3bb306b9-57a4-11ee-b997-6a53147ca30d.jpg"></file>
+            <file href="res/data/islru-10179429/54cc2bc5-57a4-11ee-b997-6a53147ca30d.jpg"></file>
+            <file href="res/data/islru-10179429/6475f436-57a4-11ee-b997-6a53147ca30d.jpg"></file>
+            <file href="res/data/islru-10179429/778e735b-57a4-11ee-a231-ae27a3165eff.jpg"></file>
+            <file href="res/data/islru-10179429/be312cf1-57a4-11ee-a231-ae27a3165eff.jpg"></file>
+            <file href="res/data/islru-10179429/cd59f42d-57a4-11ee-a231-ae27a3165eff.jpg"></file>
+            <file href="res/data/islru-10179429/d8c4e031-57a4-11ee-a231-ae27a3165eff.jpg"></file>
+            <file href="res/data/islru-10179429/eb73ea1f-57a4-11ee-a231-ae27a3165eff.jpg"></file>
+            <file href="res/data/islru-10179429/f94715ad-57a4-11ee-b997-6a53147ca30d.jpg"></file>
+            <file href="res/data/islru-10179429/082b7a0c-57a5-11ee-b997-6a53147ca30d.jpg"></file>
+            <file href="res/data/islru-10179429/166b82ca-57a5-11ee-b997-6a53147ca30d.jpg"></file>
+        </resource>
+    </resources>
+</manifest>
